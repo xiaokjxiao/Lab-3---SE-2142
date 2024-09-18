@@ -1,7 +1,5 @@
 def addition(x, y):
-    sum = x + y 
-    
-    return f'The total sum is {sum}.'
+    return x + y
 
 def subtraction(x, y):
     return x - y
