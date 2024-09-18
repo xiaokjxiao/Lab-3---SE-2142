@@ -1,4 +1,4 @@
-def addition(x, y):
-    return x + y
+def addition(x, y, z):
+    return x + y + z
 
-print (addition(1, 1))
+print (addition(1, 1, 1))
